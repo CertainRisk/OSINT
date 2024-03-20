@@ -39,3 +39,5 @@ Seeing the instructor demonstrate each tool and articulate his investigative tho
 
 ## Conclusion
 I believe this course is beneficial for anyone looking to gain a solid foundation in OSINT. It isn't solely taught from a Pentesting perspective but also an investigator's perspective. Its comprehensive approach, hands-on demonstrations, and the instructor's in-depth knowledge make it a worthwhile investment, especially for those new to this field.
+
+https://www.youtube.com/watch?v=qwA6MmbeGNo&t=13465s&pp=ygUQb3NpbnQgY291cnNlIHRjbQ%3D%3D
